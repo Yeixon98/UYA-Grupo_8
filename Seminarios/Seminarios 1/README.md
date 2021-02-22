@@ -12,7 +12,7 @@ Indica en el documento del ejemplo de aplicación del DCU, qué actividades se c
 
 ## Ejercicio 2
 
-### Investigacion
+### Investigación
 
 En la vida universitaria una correcta gestión del tiempo es elemental, un alumno posee múltiples asignaturas, cada una requiere un tiempo y una atención determinada. Ante esta situación no son pocos los alumnos que terminan por perder la noción del progreso en las diferentes asignaturas trayendo como consecuencia un paupérrimo resultado en el rendimiento y en las notas.
 
