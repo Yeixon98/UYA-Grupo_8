@@ -46,7 +46,7 @@ Para esta parte se realizará una encuesta a un conjunto de personas en el que s
 
 Las respuestas dadas por los encuestados servirán para identificar uno o múltiples perfiles para tener en consideración para el desarrollo del aplicativo.
 
-El link de la encuesta que hemos desarrollado es [este](https://forms.gle/3H4MMm9v7aX15J4N8)
+El link de la encuesta que hemos desarrollado es [este](https://forms.gle/3H4MMm9v7aX15J4N8).
 
 ### Entrevista
 
