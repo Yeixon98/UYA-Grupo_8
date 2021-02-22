@@ -1,8 +1,8 @@
 
 # Seminario 1
 
-En el seminario se explico en que consiste la metodologia DCU. Para ello se nos ha propuesto un ejemplo del cual detectar las diversas fases del DCU aplicado.
-Posteriormente, realizar nuestra propia metodologia DCU para el aplicativo a realizar.
+En el seminario se explicó en que consiste la metodología DCU. Para ello se nos ha propuesto un ejemplo del cual detectar las diversas fases del DCU aplicado.
+Posteriormente, realizar nuestra propia metodología DCU para el aplicativo a realizar.
 
 ## Ejercicio 1
 
@@ -22,10 +22,10 @@ Además, no se quiere enfocar  solo a los aspectos de eventos pendientes marcado
 
 Para poder llevar a cabo, se seguirá las siguientes operaciones:
 
-* Lluvia de ideas, en esta el equipo propone un conjunto de ideas iniciales de las cuales se decidirá cuales van a formar parte de la solución y cuáles no.
-* En la encuesta, el grupo realizará una encuesta en la que se preguntará las principales inquietudes de otros usuarios, alumnos, de la facultad. Pudiendo detectar ideas que inicialmente no estaban contempladas
+* Lluvia de ideas, en esta el equipo propone un conjunto de ideas iniciales de las cuales se decidirá cuáles van a formar parte de la solución y cuáles no.
+* En la encuesta, el grupo realizará una encuesta en la que se preguntará las principales inquietudes de otros usuarios, alumnos, de la facultad. Pudiendo detectar ideas que inicialmente no estaban contempladas.
 * Entrevista, de forma análoga a la anterior, el grupo entrevistará a otro grupo de alumnos, pertenecientes también a la asignatura de Usabilidad y Accesibilidad.
-* Homólogos, consiste en buscar aplicativos que solucionen el problema con soluciones diferentes, se puede tomar nota de estas ideas y adaptarlas a nuestra aplicación
+* Homólogos, consiste en buscar aplicativos que solucionen el problema con soluciones diferentes, se puede tomar nota de estas ideas y adaptarlas a nuestra aplicación.
 
 ### Lluvia de ideas
 
@@ -34,11 +34,11 @@ Los diferentes integrantes del grupo aportarán ideas sobre las diferentes carac
 
 1. Calendario.
 2. Anotaciones.
-3. Crear notas rapidas (estilo post-it)
+3. Crear notas rápidas (estilo post-it).
 4. Sistema de recordatorio de tareas, con preguntas al finalizarlas sobre si fueron hechas o no.
 5. Sistema de archivar tareas, para distinguir las que se han hecho y las que no.
 6. Tema oscuro.
-7. Personalizacion
+7. Personalización.
 
 ### Encuesta
 
@@ -50,7 +50,7 @@ El link de la encuesta que hemos desarrollado es [este](https://forms.gle/3H4MMm
 
 ### Entrevista
 
-El equipo de trabajo tendrá que realizar una serie de preguntas, directas a un conjunto de personas que estén dentro de la facultad. Las preguntas serán relativas a los intereses de las personas entrevistadas así de cómo se gestionan su tiempo,qué tan organizados son en carácter general, etc.
+El equipo de trabajo tendrá que realizar una serie de preguntas, directas a un conjunto de personas que estén dentro de la facultad. Las preguntas serán relativas a los intereses de las personas entrevistadas así de cómo se gestionan su tiempo, qué tan organizados son en carácter general, etc.
 
 Los puntos a tratar en la entrevista son:
 
