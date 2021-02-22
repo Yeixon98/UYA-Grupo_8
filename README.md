@@ -12,7 +12,7 @@ Alejandro Curbelo García (alu0101233581@ull.edu.es)
 
 # Seminarios
 
-## [Seminario 1](https://github.com/Yeixon98/UYA-Grupo_8/tree/master/Seminarios/Seminarios%201)
+## [Seminario 1](https://github.com/Yeixon98/UYA-Grupo_8/tree/master/Seminarios/Seminario%201)
 
 En este seminario se explico que es y en que consiste el DCU.
 
