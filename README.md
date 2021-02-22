@@ -1,12 +1,12 @@
 # UYA-Grupo_8
 ## Participantes
-Enrique Manuel Pedroza Castillo
+Enrique Manuel Pedroza Castillo (alu0100886351@ull.edu.es)
 
-Yeixon Reinaldo Morales Gonzalez
+Yeixon Reinaldo Morales Gonzalez (alu0101133324@ull.edu.es)
 
-José Javier Díaz González
+José Javier Díaz González (alu0101128894@ull.edu.es)
 
-Alejandro Curbelo García
+Alejandro Curbelo García (alu0101233581@ull.edu.es)
 
 ----------------------------------
 
