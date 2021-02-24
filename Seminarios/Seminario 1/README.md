@@ -39,6 +39,8 @@ Los diferentes integrantes del grupo aportarán ideas sobre las diferentes carac
 5. Sistema de archivar tareas, para distinguir las que se han hecho y las que no.
 6. Tema oscuro.
 7. Personalización.
+8. Crear estadistica sobre el cumplimiento de las tareas 
+9. Notificaciones 
 
 ### Encuesta
 
