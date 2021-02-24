@@ -41,6 +41,11 @@ Los diferentes integrantes del grupo aportarán ideas sobre las diferentes carac
 7. Personalización.
 8. Crear estadistica sobre el cumplimiento de las tareas 
 9. Notificaciones 
+10. Sistema de notificaciones por correo electronico
+11. Preguntar a los usuarios para que quieren la aplicacion
+12. Incluir metodologias de productividad
+13. Reconocimiento de voz
+14. Subtareas
 
 ### Encuesta
 
@@ -76,6 +81,8 @@ Teniendo en cuenta los requisitos que quieren los usuarios sobre la aplicación 
 El aplicativo contempla dos roles principales:
 * El alumno, es el usuario principal de la aplicación. Podrá usarla para planificar su tiempo, y gestionarlo de forma correcta en función de las asignaturas y tareas que tenga pendientes.
 * Profesor, podrá programar todas las tareas relacionadas con la o las asignaturas que imparte, sea tareas, micro exámenes, prácticas, etc.
+
+
 
 
 
