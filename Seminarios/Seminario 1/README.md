@@ -52,7 +52,7 @@ El link de la encuesta que hemos desarrollado es [este](https://docs.google.com/
 
 El equipo de trabajo tendrá que realizar una serie de preguntas, directas a un conjunto de personas que estén dentro de la facultad. Las preguntas serán relativas a los intereses de las personas entrevistadas así de cómo se gestionan su tiempo, qué tan organizados son en carácter general, etc.
 
-Los puntos a tratar en la entrevista son:
+Los puntos a tratar en la [entrevista](https://docs.google.com/forms/d/15MMJBvCFumh-V0hbgiYuM3LpfTTuC2eL04JbQSi-lck/edit) son:
 
 1. Durante el tiempo que llevas cursado en el grado, ¿cuál ha sido la asignatura que te ha sido más difícil? ¿y por qué?
 2. Desde tu punto de vista, ¿crees que hay asignaturas que sean prescindibles? Si es así, indíquelo.
@@ -62,6 +62,8 @@ Los puntos a tratar en la entrevista son:
 6. Si tuvieras la oportunidad de tener una aplicación que te ayude a gestionar tu tiempo de estudios, ¿lo tendrías?, ¿y por qué?
 7. ¿Alguna vez has pensado que toda esta carrera supone una carga excesiva de trabajo?, ¿y por qué?
 8. Según tu experiencia con asignaturas previas, ¿crees que el rendimiento académico se ve afectado porque las asignaturas están diseñadas para tener poco tiempo libre?, ¿o más bien es por mala organización del alumno?
+
+
 
 ### Homólogos
 
