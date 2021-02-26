@@ -25,6 +25,9 @@ Se realizan tres tipos de peticiones :
 
 ### Chrome
 ### Firefox
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/Screenshot%20from%202021-02-26%2012-41-19.png)
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/Screenshot%20from%202021-02-26%2012-41-32.png)
+
 3. Que codigo de estatus devuelve?
 
 El codigo de estatus que devuelve son:
