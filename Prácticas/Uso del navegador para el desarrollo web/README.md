@@ -47,21 +47,25 @@ El DNS, o `Domain Name System` es http://www3.gobiernodecanarias.org/
 ### Chrome
 ![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/cookies%20google%202.PNG)
 ### Firefox
-![alt test]()
+
 
 5. Que IP tiene el servidor ?
 
 La direccion del servidor de esta pagina en concreto es : `93.188.136.129:443`
 
 ### Chrome
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/google.PNG)
 ### Firefox
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/firefox.PNG)
 
 6. La pagina tiene alguna cookie?, Cuales?
 
 Sí, la página tiene Cookies, la cookie en cuestión es ASP.NET_SessionId con un value de ahn4sqp2bvt2j2ehrlvfgte0
 
 ### Chrome
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/cookies%20google.PNG)
 ### Firefox
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/cookies%20firefox.PNG)
 
 7. Que idioma acepta?
 Acepta dos idiomas:
@@ -69,22 +73,30 @@ Acepta dos idiomas:
 * Inglés
 
 ### Chrome
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/idioma%20google.PNG)
 ### Firefox
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/idioma%20firefox.PNG)
 
 8. Alguna linea de codigo JavaScript?
 
 
 ### Chrome
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/js.PNG)
 ### Firefox
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/js%20firefox.PNG)
 
 9. Alguna linea de codigo CSS que se aplique?
 
 
 ### Chrome
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/css%20google.PNG)
 ### Firefox
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/css%20firefox.PNG)
 
 10. Alguna linea de codigo HTML que se aplique? 
 
 
 ### Chrome
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/html%20google.PNG)
 ### Firefox
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/html%20firefox.PNG)
