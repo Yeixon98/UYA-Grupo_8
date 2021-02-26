@@ -9,7 +9,7 @@ En esta practica se pide acceder a una pagina web, en la cual se tiene que usar 
 1. Que peticiones desencadena la consulta?
 
 La pagina realiza solo peticiones de tipo `GET`
-https://github.com/Yeixon98/UYA-Grupo_8/blob/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/google.PNG
+![alt test] https://github.com/Yeixon98/UYA-Grupo_8/blob/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/google.PNG
 ### Chrome
 ### Firefox
 
