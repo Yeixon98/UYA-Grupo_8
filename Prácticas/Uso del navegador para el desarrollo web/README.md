@@ -14,6 +14,7 @@ La pagina realiza solo peticiones de tipo `GET`
 ![alt test](https://github.com/Yeixon98/UYA-Grupo_8/blob/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/google.PNG)
 ### Firefox
 ![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/firefox.PNG)
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/Screenshot%20from%202021-02-26%2012-38-59.png)
 
 2. Que tipo de peticion estas realizando?
 
