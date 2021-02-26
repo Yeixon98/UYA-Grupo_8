@@ -24,7 +24,7 @@ Se realizan tres tipos de peticiones :
 * CSS
 
 ### Chrome
-![alt test]()
+![alt test](./Imagenes/TypeChrome.PNG)
 ### Firefox
 ![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/Screenshot%20from%202021-02-26%2012-41-19.png)
 ![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/Screenshot%20from%202021-02-26%2012-41-32.png)
@@ -37,7 +37,7 @@ El codigo de estatus que devuelve son:
 * 404: Not Found
 
 ### Chrome
-![alt test]()
+![alt test](./Imagenes/StatusChrome.PNG)
 ### Firefox
 ![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/Screenshot%20from%202021-02-26%2012-40-00.png)
 ![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/Screenshot%20from%202021-02-26%2012-40-18.png)
@@ -47,7 +47,7 @@ El codigo de estatus que devuelve son:
 El DNS, o `Domain Name System` es http://www3.gobiernodecanarias.org/
 
 ### Chrome
-![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/cookies%20google%202.PNG)
+![alt test]()
 ### Firefox
 ![alt test]()
 
