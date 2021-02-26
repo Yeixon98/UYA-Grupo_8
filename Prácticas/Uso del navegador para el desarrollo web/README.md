@@ -37,13 +37,17 @@ El codigo de estatus que devuelve son:
 
 ### Chrome
 ### Firefox
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/Screenshot%20from%202021-02-26%2012-40-00.png)
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/Screenshot%20from%202021-02-26%2012-40-18.png)
 
 4. Que DNS tiene el servidor?
 
 El DNS, o `Domain Name System` es http://www3.gobiernodecanarias.org/
 
 ### Chrome
+![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/cookies%20google%202.PNG)
 ### Firefox
+![alt test]()
 
 5. Que IP tiene el servidor ?
 
