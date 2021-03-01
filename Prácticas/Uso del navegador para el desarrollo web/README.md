@@ -32,9 +32,9 @@ Se realizan tres tipos de peticiones:
 3. ¿Qué codigo de estatus devuelve?
 
 El código de estatus que devuelve son:
-* 302: Found
-* 304: Not Modified
-* 404: Not Found
+* **302**: Found
+* **304**: Not Modified
+* **404**: Not Found
 
 ### Chrome
 ![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/status%20google.png)
@@ -70,7 +70,7 @@ Sí, la página tiene Cookies, la cookie en cuestión es **ASP.NET_SessionId** c
 ![alt test](https://raw.githubusercontent.com/Yeixon98/UYA-Grupo_8/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web/Imagenes/cookie%20firefox.png)
 
 7. ¿Qué idioma acepta?
-Acepta dos tipos de idiomas, español e inglés.
+Acepta dos tipos de idiomas:
 * Español
 * Inglés
 
