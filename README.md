@@ -16,10 +16,11 @@ Alejandro Curbelo García (alu0101233581@ull.edu.es)
 
 En este seminario se explico que es y en que consiste el DCU.
 
-
-
 # Prácticas
 
-## [Desarrollo Web - Frontend](https://github.com/Yeixon98/UYA-Grupo_8/tree/master/Pr%C3%A1cticas/Desarrollo%20Web%20-%20FrontEnd)
+## [Uso del navegador para el desarrollo web](https://github.com/Yeixon98/UYA-Grupo_8/tree/master/Pr%C3%A1cticas/Uso%20del%20navegador%20para%20el%20desarrollo%20web)
 
-Primera práctica - HTML5
+
+# Aplicación
+
+## [HTML](https://github.com/Yeixon98/UYA-Grupo_8/tree/master/Aplicacion/HTML)
