@@ -16,7 +16,7 @@ Alejandro Curbelo García (alu0101233581@ull.edu.es)
 
 <br>
 
-Pauta (Operable)  |  Criterios |   Imagen
+Pautas (Operable) |  Criterios |   Imagen
 :---------------: | :--------: | :---------:
 2.1 | En la página se puede apreciar que todas las funciones son accesibles mediante el uso del teclado <br> Criterio **2.1.3 AAA** | ![Img 2.1.3](img/2.1.3.png)
 2.2 | Se nos permite parar el carrusel <br> Criterio **2.2.2 A** | ![Img 2.2.2](img/2.2.2.png)
