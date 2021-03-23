@@ -16,6 +16,10 @@ Alejandro Curbelo García (alu0101233581@ull.edu.es)
 
 <br>
 
+Para evaluar las diferentes pautas del perceptible operable hemos elegido el sitio web de la [once](https://www.once.es/)
+
+<br>
+
 Pautas (Operable) |  Criterios |   Imagen
 :---------------: | :--------: | :---------:
 2.1 | En la página se puede apreciar que todas las funciones son accesibles mediante el uso del teclado. <br> Criterio **2.1.3 AAA** | ![Img 2.1.3](img/2.1.3.png)
