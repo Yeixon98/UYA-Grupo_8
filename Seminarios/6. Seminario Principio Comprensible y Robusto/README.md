@@ -18,15 +18,15 @@ Alejandro Curbelo García (alu0101233581@ull.edu.es)
 Se pretende analizar y explicar cada una de las pautas que componen el WCAG 2.1 Comprensible-Robusto sobre dos webs de ejemplo. La web que vamos a analizar es la siguiente: 
 - [Sinpromi](https://sinpromi.es/)
 
-# Introducción
-
-En este informe nos centraremos en analizar y comprobar que la web de la sociedad insular para la promoción de las personas con discapacidad cumpla con los criterios comprensibles-robusto que recoge la WACC.
-
 ***
 ## Análisis de los criterios A, AA de los principios Comprensible y Robusto sobre la web [Sinpromi](https://sinpromi.es/)
 ***
 
 Se explicacarán y analizarán todos los criterios y pautas sobre [Sinpromi](https://sinpromi.es/).
+
+# Introducción
+
+En este informe nos centraremos en analizar y comprobar que la web de la sociedad insular para la promoción de las personas con discapacidad cumpla con los criterios comprensibles-robusto que recoge la WACC.
 
 ### Pauta 3.1: Contenidos de fácil comprensión y lectura
 
