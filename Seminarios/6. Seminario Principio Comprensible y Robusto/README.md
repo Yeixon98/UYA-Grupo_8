@@ -1,5 +1,5 @@
-# Seminario 5
-## Perceptible Operable
+# Seminario 6
+## Principios Comprensible y Robusto
 <br>
 
 ### Participantes
@@ -14,17 +14,64 @@ Alejandro Curbelo García (alu0101233581@ull.edu.es)
 
 ----------------------------------------------------------
 
-<br>
+# INFORME Criterios - Técnicas WCAG 2.1 (II) - Principio Comprensible y Robusto
 
-Para evaluar las diferentes pautas del perceptible operable hemos elegido el sitio web de la [once](https://www.once.es/)
+Se pretende analizar y explicar cada una de las pautas que componen el WCAG 2.1 Comprensible-Robusto sobre dos webs de ejemplo. Las webs a analizar son las siguientes: 
+- [Sinpromi](https://sinpromi.es/)
 
-<br>
+***
+## Análisis de los criterios A, AA de los principios Comprensible y Robusto sobre la web [Sinpromi](https://sinpromi.es/)
+***
 
-Pautas (Operable) |  Criterios |   Imagen
-:---------------: | :--------: | :---------:
-2.1 | En la página se puede apreciar que todas las funciones son accesibles mediante el uso del teclado. <br> Criterio **2.1.3 AAA** | ![Img 2.1.3](img/2.1.3.png)
-2.2 | Se nos permite parar el carrusel. <br> Criterio **2.2.2 A** | ![Img 2.2.2](img/2.2.2.png)
-2.3 | Las páginas no contienen nada que destelle más de 3 veces por segundo. <br> Criterio **2.3.2 AAA** | ![Img 2.3.2.a](img/2.3.2.a.png) ![Img 2.3.2.b](img/2.3.2.b.png)
-2.4 | Dentro del sitio web se puede acceder a una página a través de varios caminos. <br> Criterio **2.4.5 AA** | ![Img 2.4.5](img/2.4.5.png)
-2.4 | Se nos informa la ubicación donde nos encontramos en cada momento. <br> Criterio **2.4.8 AAA** | ![Img 2.4.8.a](img/2.4.8.a.png) <br> ![Img 2.4.8.b](img/2.4.8.b.png)
-2.4 | Todo el contenido de la página está con encabezados. <br> Criterio **2.4.10 AAA** | ![Img 2.4.10](img/2.4.10.png)
+Se explicacarán y analizarán todos los criterios y pautas sobre [Sinpromi](https://sinpromi.es/).
+
+### Pauta 3.1: Contenidos de fácil comprensión y lectura
+
+- **Criterio 3.1.1 (A):** No se encuentra ninguna forma de determinar por software el lenguaje de la web, por tanto este criterio no ha sido cumplido. Lo podemos ver además en la siguiente imagen:
+
+![Sinpromi-lang](a "Imagen que muestra la parte del codigo que hace referencia al lenguaje")
+
+El lenguaje se puede identificar usando **lang** y se puede apreciar su contenido en la imagen anterior.
+
+- **Criterio 3.1.2 (AA):** Como ya vimos en el anterior criterio, no se encuentra ninguna forma de determinar por software el lenguaje de la web. Aún así, se usa **lang** en los elementos HTML.
+
+### Pauta 3.2: Manejo de Webs de forma predecible
+
+- **Criterio 3.2.1:** Al hacer uso de del foco sobre los elementops de la web, no se inicia un cambio en el contexto, podemos navegar con el tabulador por toda la web sin este tipo de problema.
+Se puede abrir ventanas y enlaces sólo cuando sea necesario.
+Por todos estos motivos, este criterio ha sido cumplido.
+
+- **Criterio 3.2.2:** Se cumple que el cambio de estado en un componenete no provoca automáticamente el cambio de contexto.
+
+- **Criterio 3.2.3:** Algunos de los ejemplos que cumple esdte criterio son la de un menú de navegación extendible, incluyendo en el una serie de elementos con enlaces a las principales secciones de un sitio web.
+
+
+### Pauta 3.3: Evitar y corregir errores
+
+- **Criterio 3.3.1:** Al introducir nuestras credenciales en la entrada de datos correspondiente, se identifica el elemento erróneo ademas de describir el motivo del error mediante texto. Podemos ver un ejemplo de ello en la siguiente imágen:
+
+![fallo-usuario](a "Se muestra el bloque de texto con el error")
+
+- **Criterio 3.3.2:** En la cajetilla de entrada de datos se le muestra al usuario un ejemplo o una breve descripción orientativa sobre los datos a introducir en la misma.
+
+Tomamos como ejemplo el formulario de registro, que nos muestra lo siguiente:
+
+![registro-sinpromi](a "Imagen que ilustra el formulario de registro de la web  Sinpromi")
+
+- **Criterio 3.3.3:** A la hora de hacer el registro, si se encuentra algún tipo de error, se presta al usuario una breve descripción del problema.
+    Fácil lectura y comprensión de los contenidos
+
+
+### Criterios relacionados con las pautas de Robusto:
+
+### Pauta 4.1: Compatibilidad
+
+  Compatible: Maximizar la compatibilidad con las aplicaciones de usuario actuales y futuras, incluyendo las ayudas técnicas.
+
+- **Criterio 4.1.1 (Nivel AA):** La web sí cumple este criterio ya que, podemos encontrar que todos los elementos tienen las etiquetas de apertura y cierre completas, están anidados de acuerdo a sus especificaciones, no contienen atributos duplicados y no hemos encontrado ningún ID repetido. Esto se puede comprobar mediante las técnicas de validadores automáticos, además de que se nota que siguen el estándar HTML. A continuación se puede ver una captura del código de la página de [Sinpromi](https://sinpromi.es/) donde se puede observar como se cumple:
+
+![criterio411](a "Imagen que muestra una sección del código de la página de Sinpromi.")
+
+- **Criterio 4.1.2 (nivel A):** Sí lo cumple ya que, para todos los componentes de la interfaz de usuario el elemento y la función pueden ser determinados por software. Además, el usuario no tiene que aportar nada así que no hay que especificarlo por software ni consultar los cambios. Alguna técnica que se puede emplear para llevar a cabo esto es la ARIA14: Usar aria-label para proporcionar una etiqueta invisible donde no se puede usar una etiqueta visible
+
+- **Criterio 4.1.3 (nivel A):** Este criterio no puede ser comprobado en esta página ya que no hay ningún temporizador o formulario que requiera de tiempo y te pueda mandar un aviso. Este criterio viene a decir que aunque los mensajes de error y las advertencias pueden ser mensajes de estado, no lo son si cambian el contexto al establecer el foco en el error. Este criterio beneficia a aquellas personas que usan tecnología de asistencia, como lectores de pantalla.
