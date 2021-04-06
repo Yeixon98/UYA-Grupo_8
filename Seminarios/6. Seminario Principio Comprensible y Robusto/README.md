@@ -1,5 +1,4 @@
 # Seminario 6
-## Principios Comprensible y Robusto
 
 ### Participantes
 
@@ -22,7 +21,7 @@ Se pretende analizar y explicar cada una de las pautas que componen el WCAG 2.1 
 ## Análisis de los criterios A, AA de los principios Comprensible y Robusto sobre la web [Sinpromi](https://sinpromi.es/)
 ***
 
-Se explicacarán y analizarán todos los criterios y pautas sobre [Sinpromi](https://sinpromi.es/).
+Se explicarán y analizarán todos los criterios y pautas sobre [Sinpromi](https://sinpromi.es/).
 
 # Introducción
 
