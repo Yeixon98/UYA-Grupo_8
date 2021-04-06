@@ -15,8 +15,12 @@ Alejandro Curbelo García (alu0101233581@ull.edu.es)
 
 # INFORME Criterios - Técnicas WCAG 2.1 (II) - Principio Comprensible y Robusto
 
-Se pretende analizar y explicar cada una de las pautas que componen el WCAG 2.1 Comprensible-Robusto sobre dos webs de ejemplo. Las webs a analizar son las siguientes: 
+Se pretende analizar y explicar cada una de las pautas que componen el WCAG 2.1 Comprensible-Robusto sobre dos webs de ejemplo. La web que vamos a analizar es la siguiente: 
 - [Sinpromi](https://sinpromi.es/)
+
+# Introducción
+
+En este informe nos centraremos en analizar y comprobar que la web de la sociedad insular para la promoción de las personas con discapacidad cumpla con los criterios comprensibles-robusto que recoge la WACC.
 
 ***
 ## Análisis de los criterios A, AA de los principios Comprensible y Robusto sobre la web [Sinpromi](https://sinpromi.es/)
@@ -40,7 +44,7 @@ El lenguaje se puede identificar usando **lang** y se puede apreciar su contenid
 
 - **Criterio 3.2.2:** Se cumple que el cambio de estado en un componenete no provoca automáticamente el cambio de contexto.
 
-- **Criterio 3.2.3:** Algunos de los ejemplos que cumple esdte criterio son la de un menú de navegación extendible, incluyendo en el una serie de elementos con enlaces a las principales secciones de un sitio web.
+- **Criterio 3.2.3:** Algunos de los ejemplos que cumple este criterio son la de un menú de navegación extendible, incluyendo en el una serie de elementos con enlaces a las principales secciones de un sitio web.
 
 
 ### Pauta 3.3: Evitar y corregir errores
