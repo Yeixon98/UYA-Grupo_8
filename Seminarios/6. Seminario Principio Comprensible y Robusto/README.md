@@ -1,6 +1,5 @@
 # Seminario 6
 ## Principios Comprensible y Robusto
-<br>
 
 ### Participantes
 
@@ -29,7 +28,7 @@ Se explicacarán y analizarán todos los criterios y pautas sobre [Sinpromi](htt
 
 - **Criterio 3.1.1 (A):** No se encuentra ninguna forma de determinar por software el lenguaje de la web, por tanto este criterio no ha sido cumplido. Lo podemos ver además en la siguiente imagen:
 
-![Sinpromi-lang](a "Imagen que muestra la parte del codigo que hace referencia al lenguaje")
+![Sinpromi-lang](https://github.com/Yeixon98/UYA-Grupo_8/blob/Seminarios/Seminarios/6.%20Seminario%20Principio%20Comprensible%20y%20Robusto/img/sinpromi-lang.png "Imagen que muestra la parte del codigo que hace referencia al lenguaje")
 
 El lenguaje se puede identificar usando **lang** y se puede apreciar su contenido en la imagen anterior.
 
@@ -50,13 +49,13 @@ Por todos estos motivos, este criterio ha sido cumplido.
 
 - **Criterio 3.3.1:** Al introducir nuestras credenciales en la entrada de datos correspondiente, se identifica el elemento erróneo ademas de describir el motivo del error mediante texto. Podemos ver un ejemplo de ello en la siguiente imágen:
 
-![fallo-usuario](a "Se muestra el bloque de texto con el error")
+![fallo-usuario](https://github.com/Yeixon98/UYA-Grupo_8/blob/Seminarios/Seminarios/6.%20Seminario%20Principio%20Comprensible%20y%20Robusto/img/fallo-usuario.png "Se muestra el bloque de texto con el error")
 
 - **Criterio 3.3.2:** En la cajetilla de entrada de datos se le muestra al usuario un ejemplo o una breve descripción orientativa sobre los datos a introducir en la misma.
 
 Tomamos como ejemplo el formulario de registro, que nos muestra lo siguiente:
 
-![registro-sinpromi](a "Imagen que ilustra el formulario de registro de la web  Sinpromi")
+![registro-sinpromi](https://github.com/Yeixon98/UYA-Grupo_8/blob/Seminarios/Seminarios/6.%20Seminario%20Principio%20Comprensible%20y%20Robusto/img/registro-sinpromi.png "Imagen que ilustra el formulario de registro de la web  Sinpromi")
 
 - **Criterio 3.3.3:** A la hora de hacer el registro, si se encuentra algún tipo de error, se presta al usuario una breve descripción del problema.
     Fácil lectura y comprensión de los contenidos
@@ -70,7 +69,7 @@ Tomamos como ejemplo el formulario de registro, que nos muestra lo siguiente:
 
 - **Criterio 4.1.1 (Nivel AA):** La web sí cumple este criterio ya que, podemos encontrar que todos los elementos tienen las etiquetas de apertura y cierre completas, están anidados de acuerdo a sus especificaciones, no contienen atributos duplicados y no hemos encontrado ningún ID repetido. Esto se puede comprobar mediante las técnicas de validadores automáticos, además de que se nota que siguen el estándar HTML. A continuación se puede ver una captura del código de la página de [Sinpromi](https://sinpromi.es/) donde se puede observar como se cumple:
 
-![criterio411](a "Imagen que muestra una sección del código de la página de Sinpromi.")
+![criterio411](https://github.com/Yeixon98/UYA-Grupo_8/blob/Seminarios/Seminarios/6.%20Seminario%20Principio%20Comprensible%20y%20Robusto/img/criterio411html.png "Imagen que muestra una sección del código de la página de Sinpromi.")
 
 - **Criterio 4.1.2 (nivel A):** Sí lo cumple ya que, para todos los componentes de la interfaz de usuario el elemento y la función pueden ser determinados por software. Además, el usuario no tiene que aportar nada así que no hay que especificarlo por software ni consultar los cambios. Alguna técnica que se puede emplear para llevar a cabo esto es la ARIA14: Usar aria-label para proporcionar una etiqueta invisible donde no se puede usar una etiqueta visible
 
