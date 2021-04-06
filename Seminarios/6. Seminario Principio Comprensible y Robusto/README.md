@@ -36,9 +36,7 @@ El lenguaje se puede identificar usando **lang** y se puede apreciar su contenid
 
 ### Pauta 3.2: Manejo de Webs de forma predecible
 
-- **Criterio 3.2.1:** Al hacer uso de del foco sobre los elementops de la web, no se inicia un cambio en el contexto, podemos navegar con el tabulador por toda la web sin este tipo de problema.
-Se puede abrir ventanas y enlaces sólo cuando sea necesario.
-Por todos estos motivos, este criterio ha sido cumplido.
+- **Criterio 3.2.1:** Al hacer uso de del foco sobre los elementops de la web, no se inicia un cambio en el contexto, podemos navegar con el tabulador por toda la web,se puede abrir ventanas y enlaces sólo cuando sea necesario. Sin embargo, cuando abrimos menus desplegables si queremos salir, independientemente de que podamos navegar dentro, no podemos hacer la accion de comprimir y ocultar el menu desplegable, con lo que tendria mos que volver a dar la vuelta a la pagina hasta el boton del desplegable para poder cerrarlo. Por esto no cumple el criterio 3.2.1
 
 - **Criterio 3.2.2:** Se cumple que el cambio de estado en un componenete no provoca automáticamente el cambio de contexto.
 
