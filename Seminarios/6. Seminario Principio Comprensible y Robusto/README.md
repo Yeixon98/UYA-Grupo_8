@@ -29,13 +29,13 @@ En este informe nos centraremos en analizar y comprobar que la web de la socieda
 
 ### Pauta 3.1: Contenidos de fácil comprensión y lectura
 
-- **Criterio 3.1.1 (A):** No se encuentra ninguna forma de determinar por software el lenguaje de la web, por tanto este criterio no ha sido cumplido. Lo podemos ver además en la siguiente imagen:
+- **Criterio 3.1.1 (A):** Se puede encontrar el lenguaje predefinido de la pagina en la cabecera del codigo HTML, con lo cual podemos decir que cumple con el criterio, en este caso `lang ="en"`:
 
 ![Sinpromi-lang](https://github.com/Yeixon98/UYA-Grupo_8/blob/Seminarios/Seminarios/6.%20Seminario%20Principio%20Comprensible%20y%20Robusto/img/sinpromi-lang.png "Imagen que muestra la parte del codigo que hace referencia al lenguaje")
 
 El lenguaje se puede identificar usando **lang** y se puede apreciar su contenido en la imagen anterior.
 
-- **Criterio 3.1.2 (AA):** Como ya vimos en el anterior criterio, no se encuentra ninguna forma de determinar por software el lenguaje de la web. Aún así, se usa **lang** en los elementos HTML.
+- **Criterio 3.1.2 (AA):** Como pudimos ver en el apartado anterior, si podemos determinar por la cabecera, la lengua prevista para la que fue creada la pagina, esto se cumple en todas las paginas del sitio web
 
 ### Pauta 3.2: Manejo de Webs de forma predecible
 
